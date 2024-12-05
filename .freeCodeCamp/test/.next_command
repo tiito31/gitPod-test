@@ -172,3 +172,4 @@ sudo echo -e '\n~~ My Computer Science Students ~~\n' > student_info.sh
 cat student_info.sh
 ./student_info.sh
 ./student_info.sh
+./student_info.sh
