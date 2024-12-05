@@ -167,3 +167,4 @@ touch student_info.sh
 chmod +x student_info.sh
 sudo echo -e
 sudo echo -e '#!/bin/bash' > student_info.sh
+sudo echo -e '#Info about my computer science students from students database' > student_info.sh
