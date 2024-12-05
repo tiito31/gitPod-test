@@ -58,3 +58,27 @@ git config --get-all
 git init
 git remote add origin https://github.com/tiito31/test1.git
 git add .
+git push -u origin master
+git commit -m "Test"
+git push origin main
+__vsc_prompt_cmd_original
+touch README
+git add README
+git add README students.sql
+git commit -m "reinitialized files"
+git push origin master --force
+git push origin BRANCH --force
+git pull
+git config pull.ff only
+git push
+rm README
+git add README.md
+touch README.md
+git add README.md students.sql
+git push
+git commit -m "test"
+git remote add https://github.com/tiito31/test1.git
+git remote add -m https://github.com/tiito31/test1.git
+git remote add origin https://github.com/tiito31/test1.git
+git init
+git add .
