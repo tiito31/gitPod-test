@@ -168,3 +168,5 @@ chmod +x student_info.sh
 sudo echo -e
 sudo echo -e '#!/bin/bash' > student_info.sh
 sudo echo -e '#Info about my computer science students from students database' > student_info.sh
+sudo echo -e '\n~~ My Computer Science Students ~~\n' > student_info.sh
+cat student_info.sh
